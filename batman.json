@@ -1,0 +1,19 @@
+{ "tokat" : [
+    { 
+        "isim" :"Malabadi Köprüsü",
+         "aciklama":"Türkiye ve yakın doğuda taş köprüler içerisinde kemeri en geniş olandır",
+         "fotourl":"https://raw.githubusercontent.com/dikranmete/toguceng/main/malabadi.jpeg"
+    },
+    {
+        "isim":"Hasankeyf Köprüsü",
+        "aciklama":"Kemer açıklığı itibarıyla Ortaçağ'da yapılan köprülerinin en büyüğüdür",
+        "fotourl":"https://raw.githubusercontent.com/dikranmete/toguceng/main/hasankeyf_kopru.jpg"
+    } ,
+   {
+        "isim":"Hasankeyf 611 Yıllık Minare",
+        "aciklama":"Tarihi açıdan önemli bir özelliği vardır diye düşünüyoruz",
+        "fotourl":"https://raw.githubusercontent.com/dikranmete/toguceng/main/minare.jpg"
+    } 
+
+
+]}
